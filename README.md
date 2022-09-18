@@ -9,3 +9,4 @@
 - 📫 How to reach me: ... Check the links on the left ;) 
 - ⚡ Fun fact: ... I own a muscle car and love driving it
 
+![snake gif](https://github.com/jonangeles-sanchez/jonangeles-sanchez/blob/output/github-contribution-grid-snake.gif)
