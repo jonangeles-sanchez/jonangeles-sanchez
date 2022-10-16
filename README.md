@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... any project :)
 - 🤔 I’m looking for help with ... selenium
 - 💬 Ask me about ... anything JavaScript <3 business & finance 
-- 📫 How to reach me: ... Check the links on the left ;) 
+- 📫 How to reach me: ... Check the links on the left and below ;) 
 - ⚡ Fun fact: ... I own a muscle car and love driving it
 <!--
 <h3 align="left">Languages and Tools:</h3>
