@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ... The Good Samaritan project
 - 🌱 I’m currently learning ... various languages & frameworks...
-- 👯 I’m looking to collaborate on ... any project :)
+- 👯 I’m looking to collaborate on ... any of your projects :)
 - 🤔 I’m looking for help with ... selenium
 - 💬 Ask me about ... anything JavaScript <3 business & finance 
 - 📫 How to reach me: ... Check the links on the left and below ;) 
