@@ -1,11 +1,11 @@
 ### Hi, I'm Jon! 👋
 
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... various languages & frameworks...
-- 👯 I’m looking to collaborate on ... any of your projects :)
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... anything JavaScript <3 business & finance 
+- 🔭 I’m currently working on ... Sign-in system for university
+- 🌱 I’m currently learning ... PHP
+- 👯 I’m looking to collaborate on ... none at the moment.
+- 🤔 I’m looking for help with ... none at the moment.
+- 💬 Ask me about ... anything JavaScript <3 & business/finance 
 - 📫 How to reach me: ... Check the links on the left and below ;) 
 - ⚡ Fun fact: ... I own a muscle car and love driving it
 <!--
