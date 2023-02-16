@@ -28,14 +28,14 @@
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
-<h3>Connect with me:</h3>
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/jonathan-angeles-sanchez-592896161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/DeVouringTrader"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/jon_angeless/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
+<div align = 'center'>
+      <h3>Connect with me:</h3>
+      <p align="center">
+      <a href = "https://www.linkedin.com/in/jonathan-angeles-sanchez-592896161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+      <a href = "https://twitter.com/DeVouringTrader"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+      <a href = "https://www.instagram.com/jon_angeless/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+      </p>
+</div>
 
 ![snake gif](https://github.com/jonangeles-sanchez/jonangeles-sanchez/blob/output/github-contribution-grid-snake.gif)
 
