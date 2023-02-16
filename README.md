@@ -1,6 +1,6 @@
 ![Header](./githead.png)
 
-- :school: I'm [Jonathan](https://keshavsingh4522.github.io/), I am pursuing a B.S. in Computer Science [@Mars Hill university](https://www.mhu.edu/)
+- :school: I'm [Jonathan](https://www.youtube.com/watch?v=BBJa32lCaaY&ab_channel=LegacyPNDA), I am pursuing a B.S. in Computer Science [@Mars Hill university](https://www.mhu.edu/)
 - 🔭 I’m currently working on  **Check in system**
 - 🌱 I’m currently **seeking internships and job opportunities**
 - 💬 Ask me about anything, I am happy to help
