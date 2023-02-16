@@ -38,3 +38,5 @@
 </p>
 
 ![snake gif](https://github.com/jonangeles-sanchez/jonangeles-sanchez/blob/output/github-contribution-grid-snake.gif)
+
+![Snake animation](https://github.com/jonangeles-sanchez/jonangeles-sanchez/blob/output/github-contribution-grid-snake.svg)
