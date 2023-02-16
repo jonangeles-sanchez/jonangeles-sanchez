@@ -1,5 +1,11 @@
 ![Header](./github-header-image.png)
 
+- :school: I'm [Jonathan](https://keshavsingh4522.github.io/), I am pursuing a B.S. in Computer Science [@Mars Hill university](https://www.mhu.edu/)
+- 🔭 I’m currently working on  **Check in system**
+- 🌱 I’m currently **seeking internships and job opportunities**
+- 💬 Ask me about anything, I am happy to help
+- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
