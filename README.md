@@ -1,4 +1,4 @@
-![Header](./githeader.png)
+![Header](./githead.png)
 
 - :school: I'm [Jonathan](https://keshavsingh4522.github.io/), I am pursuing a B.S. in Computer Science [@Mars Hill university](https://www.mhu.edu/)
 - 🔭 I’m currently working on  **Check in system**
