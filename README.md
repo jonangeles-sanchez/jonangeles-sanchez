@@ -5,6 +5,7 @@
 - 🌱 I’m currently **seeking internships and job opportunities**
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
+- 🗣️ también hablo español 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
