@@ -1,12 +1,17 @@
 ![Header](./githead.png)
 
-- :school: I'm [Jonathan](https://www.youtube.com/watch?v=BBJa32lCaaY&ab_channel=LegacyPNDA), I am pursuing a B.S. in Computer Science [@Mars Hill university](https://www.mhu.edu/)
-- 🔭 I’m currently working on  **Check in system**
-- 🌱 I’m currently **seeking internships and job opportunities**
-- 💬 Ask me about anything, I am happy to help
-- 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- 🗣️ También hablo español 
-- 🧑‍💻 Tech I work on :
+<div align="center">
+<img align="center"  src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"/>
+</div>
+
+<div align="center">
+<br> 🏫 I'm <a href="https://www.youtube.com/watch?v=BBJa32lCaaY&ab_channel=LegacyPNDA">Jonathan</a>, I am pursuing a B.S. in Computer Science <a href="https://www.mhu.edu/">@Mars Hill university</a>
+<br> 🔭 I’m currently working on a <strong>Check in system</strong> as my university capstone project
+<br> 🌱 I’m currently <strong>seeking internships and job opportunities</strong>
+<br> 💬 Ask me about anything, I am happy to help
+<br> 🗣️ También hablo español 
+<br> 🧑‍💻 Tech I work on :
+</div>
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
@@ -39,7 +44,9 @@
       <p align="center">
       <a href = "https://www.linkedin.com/in/jonathan-angeles-sanchez-592896161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
       <a href = "https://twitter.com/DeVouringTrader"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-      <a href = "https://www.instagram.com/jon_angeless/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+      <!--
+            <a href = "https://www.instagram.com/jon_angeless/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+      -->
       </p>
 </div>
 
