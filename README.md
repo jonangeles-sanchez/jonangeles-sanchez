@@ -1,15 +1,15 @@
-![Header](./githead.png)
+![github-header-image](https://github.com/jonangeles-sanchez/jonangeles-sanchez/assets/70487639/ce6e89d4-61aa-4181-bea3-d48f53847df9)
+
 
 <div align="center">
 <img align="center"  src="https://camo.githubusercontent.com/bad73067be0171aab9e958e844f2fffe8685814c10a3245aa363d31f9b649922/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966"/>
 </div>
 
 <div align="center">
-<br> 🏫 I'm <a href="https://www.youtube.com/watch?v=BBJa32lCaaY&ab_channel=LegacyPNDA">Jonathan</a>, I am pursuing a B.S. in Computer Science <a href="https://www.mhu.edu/">@Mars Hill university</a>
-<br> 🔭 I’m currently working on a <strong>Check in system</strong> as my university capstone project
-<br> 🌱 I’m currently <strong>seeking internships and job opportunities</strong>
-<br> 💬 Ask me about anything, I am happy to help
+<br> 🏫 I'm <a href="https://www.youtube.com/watch?v=BBJa32lCaaY&ab_channel=LegacyPNDA">Jonathan</a>, I currently pursuing a M.S. in C.S.
 <br> 🗣️ También hablo español 
+<br> 🔭 Connect with me with the links below!
+<br> 💬 Ask me about anything, I am happy to help
 <br> 🧑‍💻 Tech I work on :
 </div>
 
